@@ -75,6 +75,7 @@ h1 {
     font-size: 2.3rem;
     font-weight: 700;
     padding-bottom: 20px;
+    color: #FFF;
 }
 
 h1 span {
@@ -99,6 +100,7 @@ article p {
 
 .stats-container p {
     font-family: 'Inter', sans-serif;
+    color: #FFF;
 }
 
 .stats-container span {
@@ -169,6 +171,7 @@ article p {
         flex-direction: row-reverse;
         width: 80%;
         height: 45vh;
+        max-height: 500px;
         margin: 0 auto;
         border-radius: 10px;
     }
