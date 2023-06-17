@@ -169,6 +169,7 @@ article p {
         display: flex;
         flex-direction: row-reverse;
         width: 80%;
+        max-width: 1000px;
         height: 45vh;
         max-height: 500px;
         margin: 0 auto;
